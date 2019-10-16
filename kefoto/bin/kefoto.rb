@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
-require_relative "~/CLI.rb"
+require "bundler/setup"
+require "kefoto_scraper"
 
 CLI.new.call
