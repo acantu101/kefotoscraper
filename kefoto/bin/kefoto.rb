@@ -3,4 +3,4 @@
 require "bundler/setup"
 require "kefoto_scraper"
 
-CLI.new.call
+Kefoto_scraper::CLI.new.call
