@@ -1,4 +1,4 @@
-  class CLI
+  class Kefoto_scraper:CLI
 
     def call
    binding.pry
